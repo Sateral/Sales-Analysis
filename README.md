@@ -1,4 +1,4 @@
-# Pandas Python Project
+# Pandas Sales Analysis Project
 
 This project utilizes Pandas library in Python to analyze sales data from a CSV file. The code performs several analyses to derive insights from the data.
 
